@@ -1,0 +1,27 @@
+.p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+.p2{
+    border: 3px solid orange;
+    padding: 25px;
+}
+.p3{
+    color: white;
+    font-family: 'Lucida Handwriting';
+    font-size: 25px;
+    align-content: center;
+}
+.p4{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+h6{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    display: flex;
+}

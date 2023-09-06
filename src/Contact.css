@@ -1,0 +1,30 @@
+.c1{
+    padding: 60px;
+}
+/* .c2{
+    padding: 1800px;
+    background-repeat: no-repeat;
+    background-size: 600px; 
+    align-items: center;
+    display: flex;
+    justify-content: center;
+} */
+.contact{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: white;
+    font-family: 'Lucida Handwriting';
+    font-size: 25px;
+}
+h3{
+    color:white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.t1{
+    border: 3px solid orange;
+    padding: 25px;
+}
